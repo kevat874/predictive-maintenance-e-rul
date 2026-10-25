@@ -1,0 +1,1 @@
+{"n_features": 17, "window_len": 30, "model_type": "cnn_lstm"}
